@@ -30,7 +30,7 @@
   font-family: "Switzer";
   font-weight: 400;
   font-display: swap;
-  src: url(fonts/Switzer-Regular.otf);
+  src: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/fonts/Switzer-Regular.otf");
 }
 
 @font-face {
@@ -38,35 +38,35 @@
   font-weight: 200;
   font-display: swap;
 
-  src: url(fonts/Switzer-Regular.otf);
+  src: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/fonts/Switzer-Regular.otf");
 }
 
 @font-face {
   font-family: "Switzer";
   font-weight: 300;
   font-display: swap;
-  src: url(fonts/Switzer-Light.otf);
+  src: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/fonts/Switzer-Light.otf");
 }
 
 @font-face {
   font-family: "Switzer";
   font-weight: 500;
   font-display: swap;
-  src: url(fonts/Switzer-Medium.otf);
+  src: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/fonts/Switzer-Medium.otf");
 }
 
 @font-face {
   font-family: "Switzer";
   font-weight: 600;
   font-display: swap;
-  src: url(fonts/Switzer-Semibold.otf);
+  src: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/fonts/Switzer-Semibold.otf");
 }
 
 @font-face {
   font-family: "Switzer";
   font-weight: 700;
   font-display: swap;
-  src: url(fonts/Switzer-Bold.otf);
+  src: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/fonts/Switzer-Bold.otf");
 }
 
 html {
@@ -583,8 +583,8 @@ header .navbar-nav #accordionServiceMain li:last-child a {
 }
 
 .level-div {
-  /* background: url(images/graph.svg) center center / contain no-repeat; */
-  background: url(images/graph.svg) center bottom / contain no-repeat;
+  /* background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/graph.svg") center center / contain no-repeat; */
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/graph.svg") center bottom / contain no-repeat;
 
   padding: 3rem;
   /* padding-bottom: 0; */
@@ -875,7 +875,7 @@ header .navbar-nav #accordionServiceMain li:last-child a {
 }
 
 .business-x {
-  background: url(images/home/s_border.svg) top center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/home/s_border.svg") top center / cover no-repeat;
   color: var(--bs-white);
   display: flex;
   align-items: center;
@@ -1057,7 +1057,7 @@ header .navbar-nav #accordionServiceMain li:last-child a {
 .arrow-slider .swiper-button-prev:after,
 .arrow-slider .swiper-button-next:after {
   color: transparent;
-  background: url(images/slider-arrow.svg) center center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/slider-arrow.svg") center center / cover no-repeat;
   width: 40px;
   height: 40px;
 }
@@ -1090,14 +1090,14 @@ header .navbar-nav #accordionServiceMain li:last-child a {
 }
 
 .accordion_faq .accordion-button::after {
-  background: url(images/plus-icon.svg) center center / contain no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/plus-icon.svg") center center / contain no-repeat;
   width: 1.6rem;
   height: 1.6rem;
   /* transition:all 0.3s; */
 }
 
 .accordion_faq .accordion-button:not(.collapsed)::after {
-  background-image: url(images/minus-icon.svg);
+  background-image: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/minus-icon.svg");
   /* transition:all 0.3s; */
 }
 
@@ -1521,7 +1521,7 @@ footer {
   transform: translate(-50%, -50%);
   width: 20px;
   height: 20px;
-  background: url(images/submit_arrow.svg) no-repeat center center;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/submit_arrow.svg") no-repeat center center;
   background-size: contain;
 }
 
@@ -1720,7 +1720,7 @@ footer {
 }
 
 .tab_sec_about .work_home {
-  background: url(images/dots.svg) center center/ cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/dots.svg") center center/ cover no-repeat;
   margin-top: -4rem;
 }
 
@@ -1884,7 +1884,7 @@ footer {
 }
 
 .our_client {
-  /* background: url(images/bg-cruve.svg) center bottom / cover no-repeat; */
+  /* background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/bg-cruve.svg") center bottom / cover no-repeat; */
   margin-bottom: -5px;
   padding-bottom: 10rem;
 }
@@ -1949,7 +1949,7 @@ footer {
 }
 
 .industries_sec {
-  background: url(images/industries/indurstri-page.webp) center center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/industries/indurstri-page.webp") center center / cover no-repeat;
   position: relative;
 }
 
@@ -2179,7 +2179,7 @@ footer {
 }
 
 .service_form_Sec {
-  background: url(images/wave.svg) center center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/wave.svg") center center / cover no-repeat;
 }
 
 .dark_p p {
@@ -2218,7 +2218,7 @@ footer {
 }
 
 .bg_curve {
-  background: url(images/marketing-curve.svg) center center/ contain no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/marketing-curve.svg") center center/ contain no-repeat;
   padding: 13rem 15rem;
   padding-bottom: 6rem;
 }
@@ -2558,7 +2558,7 @@ footer {
   right: 5rem;
   width: 20px;
   height: 20px;
-  background: url(images/contact/arrow-right.svg) center center / contain no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/contact/arrow-right.svg") center center / contain no-repeat;
   z-index: 1;
   transition: all 0.2s;
 }
@@ -2582,7 +2582,7 @@ footer {
 }
 
 .contact_bg {
-  background: url(images/contact/contact-bg.webp) center center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/contact/contact-bg.webp") center center / cover no-repeat;
 }
 
 .contact_bg .heading_2 {
@@ -2896,7 +2896,7 @@ footer {
   position: absolute;
   left: 0;
   top: -3px;
-  background: url(images/corporate/circle.svg) center center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/corporate/circle.svg") center center / cover no-repeat;
   width: 30px;
   height: 30px;
   transition: all 0.4s;
@@ -2982,7 +2982,7 @@ footer {
 
 .report_crux .arrow-slider .swiper-button-prev:after,
 .report_crux .arrow-slider .swiper-button-next:after {
-  background: url(images/corporate/white-arrow.svg) center center / cover no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/corporate/white-arrow.svg") center center / cover no-repeat;
 }
 
 .report_crux .arrow-slider {
@@ -3011,7 +3011,7 @@ footer {
 
 .grab-slider .swiper-button-next:after {
   color: transparent;
-  background: url(images/corporate/arrow.svg);
+  background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/corporate/arrow.svg");
   width: 45px;
   height: 45px;
   background-size: contain;
@@ -3889,7 +3889,7 @@ footer {
   }
 
   .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
-    background-image: url(images/cross.svg);
+    background-image: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/cross.svg");
     transition: all 0.2s;
   }
 
@@ -4075,8 +4075,8 @@ footer {
   }
 
   .level-div {
-    /* background-image: url(images/home/mobile-circle-border.svg); */
-    background-image: url(images/home/marketing.svg);
+    /* background-image: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/home/mobile-circle-border.svg"); */
+    background-image: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/home/marketing.svg");
     background-size: contain;
     padding: 0 2rem;
     background-position: center center;
@@ -4286,7 +4286,7 @@ footer {
 
   .business-x {
     flex-wrap: wrap;
-    background-image: url(images/home/3x.webp);
+    background-image: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/home/3x.webp");
     background-size: contain;
     background-position: bottom;
     padding: 0rem 3rem;
@@ -4729,7 +4729,7 @@ footer {
   .bg_curve {
     padding: 2rem 3rem;
     padding-bottom: 3rem;
-    background: url(images/curve-mobile.svg) center center/ contain no-repeat;
+    background: url("https://cdn.jsdelivr.net/gh/zeesee123/cruxassets@latest/images/curve-mobile.svg") center center/ contain no-repeat;
   }
 
   .contact_start h1 {
